@@ -1,5 +1,4 @@
 ultralytics
-cv2
 cvzone
 easyocr
 opencv-python
